@@ -1,0 +1,20 @@
+EXTM3U
+ 
+*Iptv Edias*
+ 
+ 
+ 
+ 
+ 
+####Radios####
+EXTINF:-1 group-title="SOUND!" tvg-logo="https://pbs.twimg.com/profile_images/550137433547747328/_3JibG9G.jpeg" TVG-NAME=''RADIO=TRUE,ANOS 70
+http://192.99.150.31:8241/stream?
+#EXTINF:-1 group-title="SOUND!" tvg-logo="https://pbs.twimg.com/profile_images/550137433547747328/_3JibG9G.jpeg" TVG-NAME=''RADIO=TRUE,ANOS 80
+http://192.99.150.31:8697/stream?
+#EXTINF:-1 group-title="SOUND!" tvg-logo="https://pbs.twimg.com/profile_images/550137433547747328/_3JibG9G.jpeg" TVG-NAME=''RADIO=TRUE,ANOS 90
+http://192.99.150.31:8056/stream?
+#EXTINF:-1 group-title="SOUND!" tvg-logo="https://pbs.twimg.com/profile_images/550137433547747328/_3JibG9G.jpeg" TVG-NAME=''RADIO=TRUE,ANOS 2000
+http://6d9a.webradio.upx.net.br:9940/stream?
+#EXTINF:-1 group-title="SOUND!" tvg-logo="https://pbs.twimg.com/profile_images/550137433547747328/_3JibG9G.jpeg" TVG-NAME=''RADIO=TRUE,AXÉ
+http://192.99.150.31:8305/stream?
+#EXTINF:-1 group-title="SOUND!" tvg-logo="https://pbs.twimg.com/profile_images/550137433547747328/_3JibG9G.jpeg" TVG-NAME=''RADIO=TRUE,BOSSA NOVA
